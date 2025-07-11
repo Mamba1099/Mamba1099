@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think am funny but am not sure**
 
-<h3 align="left">Project Done Currently:   https://kicc-reviews-r5gz.vercel.app/</h3>
+<h3 align="left">Project Done Currently:https://kicc-reviews-vika.vercel.app/</h3>
 <p align="left">
 </p>
 
