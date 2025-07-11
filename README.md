@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamba</h1>
-<h3 align="center">A Self taught frontend and backend developer from Africa</h3>
+<h3 align="center">A Self taught Full Stack developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamba1099&label=Profile%20views&color=0e75b6&style=flat" alt="mamba1099" /> </p>
 
