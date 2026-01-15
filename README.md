@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think am funny but am not sure**
 
 <h3 align="left">Project Done Currently 1:https://reviews-portal-vika.vercel.app/</h3>
-<h3 align="left">Project Done Currently 2:https://milk-farm-pink.vercel.app/</h3>
+<h3 align="left">Project Done Currently 2:https://kenzy-collection.vercel.app/</h3>
 <p align="left">
 </p>
 
