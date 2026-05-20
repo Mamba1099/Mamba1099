@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think am funny but am not sure**
 
 <h3 align="left">Project Done Currently 1:https://mambak.netlify.app/</h3>
-<h3 align="left">Project Done Currently 2:https://kenzy-collection.vercel.app/</h3>
+<h3 align="left">Project Done Currently 2:https://dricedaystar.ac.ke/</h3>
 <p align="left">
 </p>
 
