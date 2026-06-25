@@ -13,8 +13,7 @@
 
 - ⚡ Fun fact **I think am funny but am not sure**
 
-<h3 align="left">Project Done Currently 1:https://mambak.netlify.app/</h3>
-<h3 align="left">Project Done Currently 2:https://dricedaystar.co.ke/</h3>
+<h3 align="left">Project Done Currently 1:https://dricedaystar.co.ke/</h3>
 <p align="left">
 </p>
 
