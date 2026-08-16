@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamba1099" alt="mamba1099" /></a> </p>
 
-- 🌱 I’m currently learning **Go lang**
+- 🌱 I’m currently learning **Go lang** and **Laravel**
 
 - 💬 Ask me about **React, React Native, Next JS**
 
